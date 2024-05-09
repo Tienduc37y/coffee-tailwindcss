@@ -1,0 +1,15 @@
+{
+  "name": "coffee-tailwindcss",
+  "version": "1.0.0",
+  "description": "laitienduc37",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+  },
+  "keywords": [],
+  "author": "laitienduc37",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
