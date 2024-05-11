@@ -5,7 +5,6 @@
 
 Clone project and run test.
 ```
-
 $ git clone https://github.com/Tienduc37y/coffee-tailwindcss.git
 $ cd <project_dir>
 $ npm run build:css

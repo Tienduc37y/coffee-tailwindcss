@@ -17,6 +17,8 @@ module.exports = {
       },
       animation: {
         slideDown: 'slideDown .4s ease-in-out',
+      colors:{
+        'light-coffee':'#C89F94'
       }
     },
   },
