@@ -30,5 +30,8 @@
     @apply w-8 h-px bg-gray-200;
 }
 .td-subheadline-label {
-    @apply uppercase mx-4 tracking-widest text-gray-500 font-medium text-[12px] text-center;
+    @apply uppercase mx-4 tracking-widest text-gray-500 font-medium text-xs text-center;
+}
+.td-button {
+    @apply text-center tracking-wider py-4 px-8 text-[13px] font-semibold cursor-pointer hover:bg-opacity-90 uppercase;
 }
